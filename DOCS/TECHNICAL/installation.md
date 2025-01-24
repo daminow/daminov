@@ -1,8 +1,3 @@
----
-
-#### **TECHNICAL_DOCS/installation.md**
-
-````markdown
 # Инструкция по установке
 
 ## 1. Требования
@@ -16,4 +11,3 @@
 ```bash
 npm install
 ```
-````

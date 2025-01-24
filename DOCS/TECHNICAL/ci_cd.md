@@ -1,8 +1,3 @@
----
-
-#### **TECHNICAL_DOCS/ci_cd.md**
-
-```markdown
 # CI/CD для daminov.net
 
 ## 1. GitHub Actions
@@ -16,4 +11,3 @@
 ## 2. Автоматический деплой
 
 При пуше в `main` происходит деплой на сервер через Docker.
-```
